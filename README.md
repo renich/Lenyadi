@@ -31,7 +31,8 @@ Just follow the next steps for install dependencies and download the script:
     sudo apt-get install ruby ruby-gtk2 ruby-bundler youtube-dl python-pip
     sudo pip install --upgrade youtube-dl
     sudo gem install libnotify
-    wget https://github.com/n0oir/lenyadi/blob/master/lenyadi.rb
+    wget https://github.com/n0oir/lenyadi/archive/master.zip
+    unzip master.zip && cd lenyadi-master
     chmod +x lenyadi.rb
     ruby lenyadi.rb
 
