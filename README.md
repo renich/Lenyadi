@@ -19,7 +19,8 @@ Just follow the next steps for install dependencies and download the script:
     sudo yum -y install ruby-devel rubygem-gtk2 rubygem-bundler gcc youtube-dl ffmpeg libvpx libvpx-utils
     sudo gem install libnotify
     sudo youtube-dl -U
-    wget https://github.com/n0oir/lenyadi/blob/master/lenyadi.rb
+    wget https://github.com/n0oir/lenyadi/archive/master.zip
+    unzip master.zip && cd lenyadi-master
     chmod +x lenyadi.rb
     ruby lenyadi.rb
 
