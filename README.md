@@ -6,7 +6,7 @@
   * ruby-devel      => Ruby interpreter
   * rubygem-gtk2    => Ruby/GTK2 is a Ruby binding of GTK+-2.10.x
   * rubygem-bundler => Manage rubygems dependencies in Ruby libraries
-  * gcc 	    => GNU Compiler
+  * gcc 	          => GNU Compiler
   * youtube-dl	    => Small command-line program to download videos from YouTube.com and a few more site
   * ffmpeg          => Library for convert audio and video files
   * libvpx          => VP8/VP9 Codec SDK
