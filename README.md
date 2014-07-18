@@ -39,7 +39,7 @@ Just follow the next steps for install dependencies and download the script:
 ### CREATE A DESKTOP FILE
 Just follow this steps for create a desktop entry
 
-    nano /home/$USER/.local/share/applications/lenyadi.desktop
+    sudo nano /home/username/.local/share/applications/lenyadi.desktop
     
 Now copy this example of desktop file and paste into lenyadi.desktop
 
